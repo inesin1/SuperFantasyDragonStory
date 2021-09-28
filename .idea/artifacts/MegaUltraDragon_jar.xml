@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MegaUltraDragon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MegaUltraDragon_jar</output-path>
+    <root id="archive" name="MegaUltraDragon.jar">
+      <element id="module-output" name="MegaUltraDragon" />
+    </root>
+  </artifact>
+</component>
